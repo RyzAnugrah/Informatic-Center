@@ -1,0 +1,131 @@
+/* Navigation and Home */
+.navigation{
+	width: 100%;
+	
+}
+
+.home{
+	width: 100%;
+	text-align:center;
+	position: absolute;
+	top: 270px;
+	
+}
+
+.home .caption_title{
+	font-family: 'Arial';
+	font-weight: Bold;
+	font-size: 95px;
+	color: #ffffff;
+	
+}
+
+.home .caption_desc{
+	font-family: 'Candara';
+	font-size: 25px;
+	color: #ffffff;
+}
+
+/*  Page Mover  */
+.list {
+	width: 100%;
+	height: 300px;
+	background: #ebebeb;
+}
+
+/* Huawei */
+.about{
+	width: 100%;
+	height: 620px;
+	background-color: #d3d3d3c9;
+}
+
+.about div {
+	width: 1060px;
+	margin: 0 auto;
+}
+
+.about table {
+	margin-bottom: 30px;
+	color: #7e7e7e;
+}
+
+.about img{
+	width: 350px;
+	margin-top: 90px;
+	margin-left: 25px;
+}
+
+.about .about_desc{
+	width: 600px;
+	float: right;
+	margin-top: 30px;
+}
+
+.about h3{
+	font-family: 'Berlin Sans FB';
+	color: #646363;
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.about li{
+	font-family: 'LatoRegular', arial;
+	color: #7e7e7e;
+	font-size: 15px;
+	margin-bottom: 15px;
+}
+
+
+
+/*  Page Mover  */
+.page{
+	width: 100%;
+	background: #ebebeb;
+}
+
+/*  Footer  */
+footer{
+	width: 100%;
+	background-color: #393939;
+	text-align: center;
+}
+
+footer nav{
+	width: 100%;
+}
+
+footer ul {
+	font-family: 'Latobold', arial;
+	font-weight: bold;
+	color: #a5a5a5;
+	text-decoration: none;
+}
+
+footer nav ul li{
+	list-style: none;
+	display: inline-block;
+}
+
+footer nav ul li a{
+	text-decoration: none;
+	color: #a5a5a5;
+	font-family: "LatoBold", arial;
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: 20px;
+}
+
+
+footer hr.footer_sp{
+	background-color: #333;
+	border: none;
+}
+
+footer .anugming{
+	color: #a5a5a5;
+	font-family: "LatoRegular", arial;
+	font-size: 13px;
+	letter-spacing: .5px;
+}
