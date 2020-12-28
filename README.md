@@ -1,14 +1,1 @@
-Projek Pemrograman Web
-
-Kelompok-3 
-
-Kelas A
-
-
-Nama Kelompok: 
-
-Fauzan Akmal Hariz (140810180005)
-
-Alvin (140810180013)
-
-Rizky Anugerah (140810180049)
+Informatic Center is a local website that contains information centers for Computer Science major at Universitas Padjadjaran, such as student data, lecturer data, lecture schedules, and lecture materials in the Computer Science major. This project is powered by XAMPP which consists of a web server (Apache), database (MySQL), and dynamic website programming language (PHP). This project also used CodeIgniter Framework as a web application network.
